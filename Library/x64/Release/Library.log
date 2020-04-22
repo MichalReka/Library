@@ -1,0 +1,2 @@
+﻿  Library.cpp
+C:\Users\micha\Documents\inzynieria oprogramowania\Library\Library\Library.cpp(15,10): error C1083:  Nie można otworzyć pliku dołącz: 'mysql.h': No such file or directory
